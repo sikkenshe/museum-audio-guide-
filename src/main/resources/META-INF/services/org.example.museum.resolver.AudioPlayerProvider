@@ -1,0 +1,3 @@
+org.example.museum.resolver.LocalAudioPlayerProvider
+org.example.museum.resolver.StreamingAudioPlayerProvider
+org.example.museum.resolver.LegacyAudioPlayerProvider
